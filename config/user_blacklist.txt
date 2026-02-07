@@ -1,0 +1,35 @@
+# 这是接口黑名单列表，符合关键字的接口将被拦截，一个关键字一行
+# This is the interface blacklist list, the interface matching the keyword will be blocked, one keyword line
+/audio/
+
+cntv.cn
+cnr.cn
+myalicdn.com
+bdstatic.com
+dsk.cc
+xmcdn.com
+kwimgs.com
+abntelevision.com
+iptv8k.top
+cztv.com
+getaj.net
+ifengli.com
+mil.cn
+akamaized.net
+222.128.55.152
+gstv.com.cn
+ifeng.com
+fengshows.cn
+101.126.22.199
+smart.tv.home.kg
+darwinchow.com
+bfgd
+8.138.7.223
+qingting.fm
+hmysapp
+mytv666
+/rtp/
+/udp/
+61.221.215.25:8800
+brtv-radiolive.rbc.cn
+serv00.net
