@@ -1,3 +1,791 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/herofence/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV-1" tvg-logo="http://10.1.0.138:5180/logo/CCTV-1.png" group-title="🕘️更新时间",2026-02-07 10:18:37
-url
+#EXTINF:-1 tvg-name="斗地主" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/斗地主.png" group-title="🕘️更新时间",2026-02-10 11:22:56
+https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="斗地主" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/斗地主.png" group-title="棋牌",斗地主
+https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="斗地主" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/斗地主.png" group-title="棋牌",斗地主
+https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="斗地主" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/斗地主.png" group-title="棋牌",斗地主
+http://lxajh.top/tv/douyu.php?id=488743
+#EXTINF:-1 tvg-name="斗地主" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/斗地主.png" group-title="棋牌",斗地主
+https://www.goodiptv.club/douyu/488743
+#EXTINF:-1 tvg-name="斗地主" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/斗地主.png" group-title="棋牌",斗地主
+https://live.metshop.top/douyu/488743
+#EXTINF:-1 tvg-name="斗地主" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/斗地主.png" group-title="棋牌",斗地主
+http://dns.yiandrive.com:16813/huya/jjworld
+#EXTINF:-1 tvg-name="斗地主" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/斗地主.png" group-title="棋牌",斗地主
+https://www.goodiptv.club/huya/jjworld
+#EXTINF:-1 tvg-name="斗地主" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/斗地主.png" group-title="棋牌",斗地主
+https://live.metshop.top/huya/jjworld
+#EXTINF:-1 tvg-name="象棋-象棋官方账号" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/象棋-象棋官方账号.png" group-title="棋牌",象棋-象棋官方账号
+http://live.metshop.top/huya/29041501
+#EXTINF:-1 tvg-name="象棋-象棋官方账号" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/象棋-象棋官方账号.png" group-title="棋牌",象棋-象棋官方账号
+https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="象棋-象棋官方账号" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/象棋-象棋官方账号.png" group-title="棋牌",象棋-象棋官方账号
+https://025365.xyz:8082/huya.php?id=29041501
+#EXTINF:-1 tvg-name="象棋-象棋官方账号" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/象棋-象棋官方账号.png" group-title="棋牌",象棋-象棋官方账号
+http://fmbox.cc/huya.php?id=29041501
+#EXTINF:-1 tvg-name="象棋-象棋官方账号" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/象棋-象棋官方账号.png" group-title="棋牌",象棋-象棋官方账号
+http://diyp.zxyxndc.top/huya/29041501
+#EXTINF:-1 tvg-name="象棋-象棋官方账号" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/象棋-象棋官方账号.png" group-title="棋牌",象棋-象棋官方账号
+https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="象棋-象棋官方账号" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/象棋-象棋官方账号.png" group-title="棋牌",象棋-象棋官方账号
+http://www.goodiptv.club/huya/29041501
+#EXTINF:-1 tvg-name="象棋-象棋官方账号" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/象棋-象棋官方账号.png" group-title="棋牌",象棋-象棋官方账号
+https://live.ottiptv.cc/huya/29041501
+#EXTINF:-1 tvg-name="象棋-象棋官方账号" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/象棋-象棋官方账号.png" group-title="棋牌",象棋-象棋官方账号
+http://huya.chinamm.cn/?id=29041501
+#EXTINF:-1 tvg-name="象棋-八卦象棋大师" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/象棋-八卦象棋大师.png" group-title="棋牌",象棋-八卦象棋大师
+https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="象棋-八卦象棋大师" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/象棋-八卦象棋大师.png" group-title="棋牌",象棋-八卦象棋大师
+http://www.goodiptv.club/huya/30255695
+#EXTINF:-1 tvg-name="象棋-八卦象棋大师" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/象棋-八卦象棋大师.png" group-title="棋牌",象棋-八卦象棋大师
+https://live.ottiptv.cc/huya/30255695
+#EXTINF:-1 tvg-name="象棋-八卦象棋大师" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/象棋-八卦象棋大师.png" group-title="棋牌",象棋-八卦象棋大师
+https://025365.xyz:8082/huya.php?id=30255695
+#EXTINF:-1 tvg-name="象棋-八卦象棋大师" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/象棋-八卦象棋大师.png" group-title="棋牌",象棋-八卦象棋大师
+http://live.metshop.top/huya/30255695
+#EXTINF:-1 tvg-name="象棋-八卦象棋大师" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/象棋-八卦象棋大师.png" group-title="棋牌",象棋-八卦象棋大师
+http://huya.chinamm.cn/?id=30255695
+#EXTINF:-1 tvg-name="象棋-八卦象棋大师" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/象棋-八卦象棋大师.png" group-title="棋牌",象棋-八卦象棋大师
+https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="象棋-八卦象棋大师" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/象棋-八卦象棋大师.png" group-title="棋牌",象棋-八卦象棋大师
+http://diyp.zxyxndc.top/huya/30255695
+#EXTINF:-1 tvg-name="象棋-八卦象棋大师" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/象棋-八卦象棋大师.png" group-title="棋牌",象棋-八卦象棋大师
+http://fmbox.cc/huya.php?id=30255695
+#EXTINF:-1 tvg-name="象棋-九妹笑笑象棋" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/象棋-九妹笑笑象棋.png" group-title="棋牌",象棋-九妹笑笑象棋
+https://025365.xyz:8082/huya.php?id=29710634
+#EXTINF:-1 tvg-name="象棋-九妹笑笑象棋" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/象棋-九妹笑笑象棋.png" group-title="棋牌",象棋-九妹笑笑象棋
+http://diyp.zxyxndc.top/huya/29710634
+#EXTINF:-1 tvg-name="象棋-九妹笑笑象棋" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/象棋-九妹笑笑象棋.png" group-title="棋牌",象棋-九妹笑笑象棋
+http://live.metshop.top/huya/29710634
+#EXTINF:-1 tvg-name="象棋-九妹笑笑象棋" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/象棋-九妹笑笑象棋.png" group-title="棋牌",象棋-九妹笑笑象棋
+http://huya.chinamm.cn/?id=29710634
+#EXTINF:-1 tvg-name="象棋-九妹笑笑象棋" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/象棋-九妹笑笑象棋.png" group-title="棋牌",象棋-九妹笑笑象棋
+http://fmbox.cc/huya.php?id=29710634
+#EXTINF:-1 tvg-name="象棋-九妹笑笑象棋" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/象棋-九妹笑笑象棋.png" group-title="棋牌",象棋-九妹笑笑象棋
+https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="象棋-九妹笑笑象棋" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/象棋-九妹笑笑象棋.png" group-title="棋牌",象棋-九妹笑笑象棋
+https://live.ottiptv.cc/huya/29710634
+#EXTINF:-1 tvg-name="象棋-九妹笑笑象棋" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/象棋-九妹笑笑象棋.png" group-title="棋牌",象棋-九妹笑笑象棋
+http://www.goodiptv.club/huya/29710634
+#EXTINF:-1 tvg-name="象棋-九妹笑笑象棋" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/象棋-九妹笑笑象棋.png" group-title="棋牌",象棋-九妹笑笑象棋
+https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="象棋-象棋戴少帅" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/象棋-象棋戴少帅.png" group-title="棋牌",象棋-象棋戴少帅
+http://live.metshop.top/huya/487836
+#EXTINF:-1 tvg-name="象棋-象棋戴少帅" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/象棋-象棋戴少帅.png" group-title="棋牌",象棋-象棋戴少帅
+https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="象棋-象棋戴少帅" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/象棋-象棋戴少帅.png" group-title="棋牌",象棋-象棋戴少帅
+http://diyp.zxyxndc.top/huya/487836
+#EXTINF:-1 tvg-name="象棋-象棋戴少帅" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/象棋-象棋戴少帅.png" group-title="棋牌",象棋-象棋戴少帅
+http://huya.chinamm.cn/?id=487836
+#EXTINF:-1 tvg-name="象棋-象棋戴少帅" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/象棋-象棋戴少帅.png" group-title="棋牌",象棋-象棋戴少帅
+https://live.ottiptv.cc/huya/487836
+#EXTINF:-1 tvg-name="象棋-象棋戴少帅" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/象棋-象棋戴少帅.png" group-title="棋牌",象棋-象棋戴少帅
+https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="象棋-象棋戴少帅" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/象棋-象棋戴少帅.png" group-title="棋牌",象棋-象棋戴少帅
+http://fmbox.cc/huya.php?id=487836
+#EXTINF:-1 tvg-name="象棋-象棋戴少帅" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/象棋-象棋戴少帅.png" group-title="棋牌",象棋-象棋戴少帅
+https://025365.xyz:8082/huya.php?id=487836
+#EXTINF:-1 tvg-name="象棋-象棋戴少帅" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/象棋-象棋戴少帅.png" group-title="棋牌",象棋-象棋戴少帅
+http://www.goodiptv.club/huya/487836
+#EXTINF:-1 tvg-name="象棋-背谱王子" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/象棋-背谱王子.png" group-title="棋牌",象棋-背谱王子
+https://live.ottiptv.cc/huya/610553
+#EXTINF:-1 tvg-name="象棋-背谱王子" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/象棋-背谱王子.png" group-title="棋牌",象棋-背谱王子
+http://www.goodiptv.club/huya/610553
+#EXTINF:-1 tvg-name="象棋-背谱王子" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/象棋-背谱王子.png" group-title="棋牌",象棋-背谱王子
+https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="象棋-背谱王子" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/象棋-背谱王子.png" group-title="棋牌",象棋-背谱王子
+http://fmbox.cc/huya.php?id=610553
+#EXTINF:-1 tvg-name="象棋-背谱王子" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/象棋-背谱王子.png" group-title="棋牌",象棋-背谱王子
+http://live.metshop.top/huya/610553
+#EXTINF:-1 tvg-name="象棋-背谱王子" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/象棋-背谱王子.png" group-title="棋牌",象棋-背谱王子
+https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="象棋-背谱王子" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/象棋-背谱王子.png" group-title="棋牌",象棋-背谱王子
+http://huya.chinamm.cn/?id=610553
+#EXTINF:-1 tvg-name="象棋-背谱王子" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/象棋-背谱王子.png" group-title="棋牌",象棋-背谱王子
+http://diyp.zxyxndc.top/huya/610553
+#EXTINF:-1 tvg-name="象棋-背谱王子" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/象棋-背谱王子.png" group-title="棋牌",象棋-背谱王子
+https://025365.xyz:8082/huya.php?id=610553
+#EXTINF:-1 tvg-name="象棋-五月妖刀象棋" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/象棋-五月妖刀象棋.png" group-title="棋牌",象棋-五月妖刀象棋
+http://diyp.zxyxndc.top/huya/549983
+#EXTINF:-1 tvg-name="象棋-五月妖刀象棋" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/象棋-五月妖刀象棋.png" group-title="棋牌",象棋-五月妖刀象棋
+http://huya.chinamm.cn/?id=549983
+#EXTINF:-1 tvg-name="象棋-五月妖刀象棋" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/象棋-五月妖刀象棋.png" group-title="棋牌",象棋-五月妖刀象棋
+http://fmbox.cc/huya.php?id=549983
+#EXTINF:-1 tvg-name="象棋-五月妖刀象棋" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/象棋-五月妖刀象棋.png" group-title="棋牌",象棋-五月妖刀象棋
+https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="象棋-五月妖刀象棋" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/象棋-五月妖刀象棋.png" group-title="棋牌",象棋-五月妖刀象棋
+http://www.goodiptv.club/huya/549983
+#EXTINF:-1 tvg-name="象棋-五月妖刀象棋" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/象棋-五月妖刀象棋.png" group-title="棋牌",象棋-五月妖刀象棋
+http://live.metshop.top/huya/549983
+#EXTINF:-1 tvg-name="象棋-五月妖刀象棋" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/象棋-五月妖刀象棋.png" group-title="棋牌",象棋-五月妖刀象棋
+https://live.ottiptv.cc/huya/549983
+#EXTINF:-1 tvg-name="象棋-五月妖刀象棋" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/象棋-五月妖刀象棋.png" group-title="棋牌",象棋-五月妖刀象棋
+https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="象棋-五月妖刀象棋" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/象棋-五月妖刀象棋.png" group-title="棋牌",象棋-五月妖刀象棋
+https://025365.xyz:8082/huya.php?id=549983
+#EXTINF:-1 tvg-name="象棋-公园象棋杀手" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/象棋-公园象棋杀手.png" group-title="棋牌",象棋-公园象棋杀手
+https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="象棋-公园象棋杀手" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/象棋-公园象棋杀手.png" group-title="棋牌",象棋-公园象棋杀手
+https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="象棋-孙浩宇大师" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/象棋-孙浩宇大师.png" group-title="棋牌",象棋-孙浩宇大师
+https://live.ottiptv.cc/huya/382310
+#EXTINF:-1 tvg-name="象棋-孙浩宇大师" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/象棋-孙浩宇大师.png" group-title="棋牌",象棋-孙浩宇大师
+https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="象棋-孙浩宇大师" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/象棋-孙浩宇大师.png" group-title="棋牌",象棋-孙浩宇大师
+http://www.goodiptv.club/huya/382310
+#EXTINF:-1 tvg-name="象棋-孙浩宇大师" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/象棋-孙浩宇大师.png" group-title="棋牌",象棋-孙浩宇大师
+http://live.metshop.top/huya/382310
+#EXTINF:-1 tvg-name="象棋-孙浩宇大师" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/象棋-孙浩宇大师.png" group-title="棋牌",象棋-孙浩宇大师
+http://huya.chinamm.cn/?id=382310
+#EXTINF:-1 tvg-name="象棋-孙浩宇大师" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/象棋-孙浩宇大师.png" group-title="棋牌",象棋-孙浩宇大师
+https://025365.xyz:8082/huya.php?id=382310
+#EXTINF:-1 tvg-name="象棋-孙浩宇大师" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/象棋-孙浩宇大师.png" group-title="棋牌",象棋-孙浩宇大师
+http://diyp.zxyxndc.top/huya/382310
+#EXTINF:-1 tvg-name="象棋-孙浩宇大师" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/象棋-孙浩宇大师.png" group-title="棋牌",象棋-孙浩宇大师
+https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="象棋-孙浩宇大师" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/象棋-孙浩宇大师.png" group-title="棋牌",象棋-孙浩宇大师
+http://fmbox.cc/huya.php?id=382310
+#EXTINF:-1 tvg-name="象棋-广西棋王陈建昌" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/象棋-广西棋王陈建昌.png" group-title="棋牌",象棋-广西棋王陈建昌
+https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="象棋-广西棋王陈建昌" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/象棋-广西棋王陈建昌.png" group-title="棋牌",象棋-广西棋王陈建昌
+http://fmbox.cc/huya.php?id=21359045
+#EXTINF:-1 tvg-name="象棋-广西棋王陈建昌" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/象棋-广西棋王陈建昌.png" group-title="棋牌",象棋-广西棋王陈建昌
+http://diyp.zxyxndc.top/huya/21359045
+#EXTINF:-1 tvg-name="象棋-广西棋王陈建昌" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/象棋-广西棋王陈建昌.png" group-title="棋牌",象棋-广西棋王陈建昌
+https://live.ottiptv.cc/huya/21359045
+#EXTINF:-1 tvg-name="象棋-广西棋王陈建昌" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/象棋-广西棋王陈建昌.png" group-title="棋牌",象棋-广西棋王陈建昌
+https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="象棋-广西棋王陈建昌" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/象棋-广西棋王陈建昌.png" group-title="棋牌",象棋-广西棋王陈建昌
+http://www.goodiptv.club/huya/21359045
+#EXTINF:-1 tvg-name="象棋-广西棋王陈建昌" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/象棋-广西棋王陈建昌.png" group-title="棋牌",象棋-广西棋王陈建昌
+http://live.metshop.top/huya/21359045
+#EXTINF:-1 tvg-name="象棋-广西棋王陈建昌" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/象棋-广西棋王陈建昌.png" group-title="棋牌",象棋-广西棋王陈建昌
+https://025365.xyz:8082/huya.php?id=21359045
+#EXTINF:-1 tvg-name="象棋-广西棋王陈建昌" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/象棋-广西棋王陈建昌.png" group-title="棋牌",象棋-广西棋王陈建昌
+http://huya.chinamm.cn/?id=21359045
+#EXTINF:-1 tvg-name="象棋-虎牙象棋国手" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/象棋-虎牙象棋国手.png" group-title="棋牌",象棋-虎牙象棋国手
+http://huya.chinamm.cn/?id=14730819
+#EXTINF:-1 tvg-name="象棋-虎牙象棋国手" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/象棋-虎牙象棋国手.png" group-title="棋牌",象棋-虎牙象棋国手
+https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="象棋-虎牙象棋国手" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/象棋-虎牙象棋国手.png" group-title="棋牌",象棋-虎牙象棋国手
+http://fmbox.cc/huya.php?id=14730819
+#EXTINF:-1 tvg-name="象棋-虎牙象棋国手" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/象棋-虎牙象棋国手.png" group-title="棋牌",象棋-虎牙象棋国手
+http://diyp.zxyxndc.top/huya/14730819
+#EXTINF:-1 tvg-name="象棋-虎牙象棋国手" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/象棋-虎牙象棋国手.png" group-title="棋牌",象棋-虎牙象棋国手
+http://live.metshop.top/huya/14730819
+#EXTINF:-1 tvg-name="象棋-虎牙象棋国手" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/象棋-虎牙象棋国手.png" group-title="棋牌",象棋-虎牙象棋国手
+https://live.ottiptv.cc/huya/14730819
+#EXTINF:-1 tvg-name="象棋-虎牙象棋国手" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/象棋-虎牙象棋国手.png" group-title="棋牌",象棋-虎牙象棋国手
+https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="象棋-虎牙象棋国手" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/象棋-虎牙象棋国手.png" group-title="棋牌",象棋-虎牙象棋国手
+https://025365.xyz:8082/huya.php?id=14730819
+#EXTINF:-1 tvg-name="象棋-虎牙象棋国手" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/象棋-虎牙象棋国手.png" group-title="棋牌",象棋-虎牙象棋国手
+http://www.goodiptv.club/huya/14730819
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="央视频道",CCTV-1
+https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="央视频道",CCTV-1
+https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV2.png" group-title="央视频道",CCTV-2
+https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV2.png" group-title="央视频道",CCTV-2
+https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV3.png" group-title="央视频道",CCTV-3
+https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV3.png" group-title="央视频道",CCTV-3
+https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png" group-title="央视频道",CCTV-4
+https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png" group-title="央视频道",CCTV-4
+https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="央视频道",CCTV-5
+https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="央视频道",CCTV-5
+https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5+.png" group-title="央视频道",CCTV-5+
+https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5+.png" group-title="央视频道",CCTV-5+
+https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV6.png" group-title="央视频道",CCTV-6
+https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV6.png" group-title="央视频道",CCTV-6
+https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV7.png" group-title="央视频道",CCTV-7
+https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV7.png" group-title="央视频道",CCTV-7
+https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV8.png" group-title="央视频道",CCTV-8
+https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV8.png" group-title="央视频道",CCTV-8
+https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV9.png" group-title="央视频道",CCTV-9
+https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV9.png" group-title="央视频道",CCTV-9
+https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV10.png" group-title="央视频道",CCTV-10
+https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV10.png" group-title="央视频道",CCTV-10
+https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV11.png" group-title="央视频道",CCTV-11
+https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV11.png" group-title="央视频道",CCTV-11
+https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12.png" group-title="央视频道",CCTV-12
+https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12.png" group-title="央视频道",CCTV-12
+https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="央视频道",CCTV-13
+https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="央视频道",CCTV-13
+https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="央视频道",CCTV-14
+https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="央视频道",CCTV-14
+https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png" group-title="央视频道",CCTV-15
+https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png" group-title="央视频道",CCTV-15
+https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV16.png" group-title="央视频道",CCTV-16
+https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV16.png" group-title="央视频道",CCTV-16
+https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17.png" group-title="央视频道",CCTV-17
+https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17.png" group-title="央视频道",CCTV-17
+https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卫视.png" group-title="北京",北京卫视
+https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卫视.png" group-title="北京",北京卫视
+http://btv.chinamm.cn/?id=bjws
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卫视.png" group-title="北京",北京卫视
+http://iptv.huuc.edu.cn/hls/btv1hd.m3u8
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卫视.png" group-title="北京",北京卫视
+https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卫视.png" group-title="北京",北京卫视
+http://124.222.114.206/bjtv.php?id=bjws
+#EXTINF:-1 tvg-name="北京卫视4K" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卫视4K.png" group-title="北京",北京卫视4K
+https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="北京卫视4K" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卫视4K.png" group-title="北京",北京卫视4K
+http://btv.chinamm.cn/?id=bjws4k
+#EXTINF:-1 tvg-name="北京卫视4K" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卫视4K.png" group-title="北京",北京卫视4K
+https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="北京体育休闲" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/北京体育休闲.png" group-title="北京",北京体育休闲
+https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="北京体育休闲" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/北京体育休闲.png" group-title="北京",北京体育休闲
+http://iptv.huuc.edu.cn/hls/btv11hd.m3u8
+#EXTINF:-1 tvg-name="北京体育休闲" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/北京体育休闲.png" group-title="北京",北京体育休闲
+https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="北京体育休闲" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/北京体育休闲.png" group-title="北京",北京体育休闲
+http://btv.chinamm.cn/?id=bjty
+#EXTINF:-1 tvg-name="北京体育休闲" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/北京体育休闲.png" group-title="北京",北京体育休闲
+http://124.222.114.206/bjtv.php?id=bjty
+#EXTINF:-1 tvg-name="北京新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/北京新闻.png" group-title="北京",北京新闻
+http://124.222.114.206/bjtv.php?id=bjxw
+#EXTINF:-1 tvg-name="北京新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/北京新闻.png" group-title="北京",北京新闻
+https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="北京新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/北京新闻.png" group-title="北京",北京新闻
+http://btv.chinamm.cn/?id=bjxw
+#EXTINF:-1 tvg-name="北京新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/北京新闻.png" group-title="北京",北京新闻
+http://iptv.huuc.edu.cn/hls/btv9hd.m3u8
+#EXTINF:-1 tvg-name="北京新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/北京新闻.png" group-title="北京",北京新闻
+https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="北京影视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/北京影视.png" group-title="北京",北京影视
+http://iptv.huuc.edu.cn/hls/btv4hd.m3u8
+#EXTINF:-1 tvg-name="北京影视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/北京影视.png" group-title="北京",北京影视
+https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="北京影视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/北京影视.png" group-title="北京",北京影视
+http://btv.chinamm.cn/?id=bjys
+#EXTINF:-1 tvg-name="北京影视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/北京影视.png" group-title="北京",北京影视
+http://124.222.114.206/bjtv.php?id=bjys
+#EXTINF:-1 tvg-name="北京影视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/北京影视.png" group-title="北京",北京影视
+https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="北京文艺" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/北京文艺.png" group-title="北京",北京文艺
+https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="北京文艺" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/北京文艺.png" group-title="北京",北京文艺
+http://btv.chinamm.cn/?id=bjwy
+#EXTINF:-1 tvg-name="北京文艺" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/北京文艺.png" group-title="北京",北京文艺
+http://iptv.huuc.edu.cn/hls/btv2hd.m3u8
+#EXTINF:-1 tvg-name="北京文艺" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/北京文艺.png" group-title="北京",北京文艺
+https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="北京文艺" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/北京文艺.png" group-title="北京",北京文艺
+http://124.222.114.206/bjtv.php?id=bjwy
+#EXTINF:-1 tvg-name="北京财经" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/北京财经.png" group-title="北京",北京财经
+https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="北京财经" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/北京财经.png" group-title="北京",北京财经
+http://iptv.huuc.edu.cn/hls/btv5hd.m3u8
+#EXTINF:-1 tvg-name="北京财经" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/北京财经.png" group-title="北京",北京财经
+http://btv.chinamm.cn/?id=bjcj
+#EXTINF:-1 tvg-name="北京财经" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/北京财经.png" group-title="北京",北京财经
+http://124.222.114.206/bjtv.php?id=bjcj
+#EXTINF:-1 tvg-name="北京财经" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/北京财经.png" group-title="北京",北京财经
+https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="北京生活" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/北京生活.png" group-title="北京",北京生活
+https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="北京生活" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/北京生活.png" group-title="北京",北京生活
+http://iptv.huuc.edu.cn/hls/btv7hd.m3u8
+#EXTINF:-1 tvg-name="北京生活" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/北京生活.png" group-title="北京",北京生活
+http://124.222.114.206/bjtv.php?id=bjsh
+#EXTINF:-1 tvg-name="北京生活" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/北京生活.png" group-title="北京",北京生活
+http://btv.chinamm.cn/?id=bjsh
+#EXTINF:-1 tvg-name="北京生活" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/北京生活.png" group-title="北京",北京生活
+https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="北京纪实科教" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/北京纪实科教.png" group-title="北京",北京纪实科教
+https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="北京纪实科教" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/北京纪实科教.png" group-title="北京",北京纪实科教
+http://btv.chinamm.cn/?id=bjjs
+#EXTINF:-1 tvg-name="北京纪实科教" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/北京纪实科教.png" group-title="北京",北京纪实科教
+https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="北京纪实科教" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/北京纪实科教.png" group-title="北京",北京纪实科教
+http://iptv.huuc.edu.cn/hls/btv3hd.m3u8
+#EXTINF:-1 tvg-name="北京纪实科教" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/北京纪实科教.png" group-title="北京",北京纪实科教
+http://124.222.114.206/bjtv.php?id=bjjs
+#EXTINF:-1 tvg-name="北京卡酷少儿" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卡酷少儿.png" group-title="北京",北京卡酷少儿
+https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="北京卡酷少儿" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卡酷少儿.png" group-title="北京",北京卡酷少儿
+http://124.222.114.206/bjtv.php?id=bjkk
+#EXTINF:-1 tvg-name="北京卡酷少儿" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卡酷少儿.png" group-title="北京",北京卡酷少儿
+http://iptv.huuc.edu.cn/hls/btv10hd.m3u8
+#EXTINF:-1 tvg-name="北京卡酷少儿" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卡酷少儿.png" group-title="北京",北京卡酷少儿
+http://btv.chinamm.cn/?id=bjkk
+#EXTINF:-1 tvg-name="北京卡酷少儿" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卡酷少儿.png" group-title="北京",北京卡酷少儿
+https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广东卫视.png" group-title="各地卫视",广东卫视
+https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广东卫视.png" group-title="各地卫视",广东卫视
+https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="香港卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/香港卫视.png" group-title="各地卫视",香港卫视
+https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="香港卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/香港卫视.png" group-title="各地卫视",香港卫视
+https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视.png" group-title="各地卫视",浙江卫视
+https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视.png" group-title="各地卫视",浙江卫视
+https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南卫视.png" group-title="各地卫视",湖南卫视
+https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南卫视.png" group-title="各地卫视",湖南卫视
+https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖北卫视.png" group-title="各地卫视",湖北卫视
+https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖北卫视.png" group-title="各地卫视",湖北卫视
+https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/黑龙江卫视.png" group-title="各地卫视",黑龙江卫视
+https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/黑龙江卫视.png" group-title="各地卫视",黑龙江卫视
+https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/安徽卫视.png" group-title="各地卫视",安徽卫视
+https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/安徽卫视.png" group-title="各地卫视",安徽卫视
+https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/重庆卫视.png" group-title="各地卫视",重庆卫视
+https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/重庆卫视.png" group-title="各地卫视",重庆卫视
+https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东方卫视.png" group-title="各地卫视",东方卫视
+https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东方卫视.png" group-title="各地卫视",东方卫视
+https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东南卫视.png" group-title="各地卫视",东南卫视
+https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东南卫视.png" group-title="各地卫视",东南卫视
+https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/甘肃卫视.png" group-title="各地卫视",甘肃卫视
+https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/甘肃卫视.png" group-title="各地卫视",甘肃卫视
+https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广西卫视.png" group-title="各地卫视",广西卫视
+https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广西卫视.png" group-title="各地卫视",广西卫视
+https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/贵州卫视.png" group-title="各地卫视",贵州卫视
+https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/贵州卫视.png" group-title="各地卫视",贵州卫视
+https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/海南卫视.png" group-title="各地卫视",海南卫视
+https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/海南卫视.png" group-title="各地卫视",海南卫视
+https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河北卫视.png" group-title="各地卫视",河北卫视
+https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河北卫视.png" group-title="各地卫视",河北卫视
+https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河南卫视.png" group-title="各地卫视",河南卫视
+https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河南卫视.png" group-title="各地卫视",河南卫视
+https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/吉林卫视.png" group-title="各地卫视",吉林卫视
+https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/吉林卫视.png" group-title="各地卫视",吉林卫视
+https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏卫视.png" group-title="各地卫视",江苏卫视
+https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏卫视.png" group-title="各地卫视",江苏卫视
+https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江西卫视.png" group-title="各地卫视",江西卫视
+https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江西卫视.png" group-title="各地卫视",江西卫视
+https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/辽宁卫视.png" group-title="各地卫视",辽宁卫视
+https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/辽宁卫视.png" group-title="各地卫视",辽宁卫视
+https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/内蒙古卫视.png" group-title="各地卫视",内蒙古卫视
+https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/内蒙古卫视.png" group-title="各地卫视",内蒙古卫视
+https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/宁夏卫视.png" group-title="各地卫视",宁夏卫视
+https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/宁夏卫视.png" group-title="各地卫视",宁夏卫视
+https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/青海卫视.png" group-title="各地卫视",青海卫视
+https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/青海卫视.png" group-title="各地卫视",青海卫视
+https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/山东卫视.png" group-title="各地卫视",山东卫视
+https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/山东卫视.png" group-title="各地卫视",山东卫视
+https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/山西卫视.png" group-title="各地卫视",山西卫视
+https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/山西卫视.png" group-title="各地卫视",山西卫视
+https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/陕西卫视.png" group-title="各地卫视",陕西卫视
+https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/陕西卫视.png" group-title="各地卫视",陕西卫视
+https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/四川卫视.png" group-title="各地卫视",四川卫视
+https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/四川卫视.png" group-title="各地卫视",四川卫视
+https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/深圳卫视.png" group-title="各地卫视",深圳卫视
+https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/深圳卫视.png" group-title="各地卫视",深圳卫视
+https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="三沙卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/三沙卫视.png" group-title="各地卫视",三沙卫视
+https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="三沙卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/三沙卫视.png" group-title="各地卫视",三沙卫视
+https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/天津卫视.png" group-title="各地卫视",天津卫视
+https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/天津卫视.png" group-title="各地卫视",天津卫视
+https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/西藏卫视.png" group-title="各地卫视",西藏卫视
+https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/西藏卫视.png" group-title="各地卫视",西藏卫视
+https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/新疆卫视.png" group-title="各地卫视",新疆卫视
+https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/新疆卫视.png" group-title="各地卫视",新疆卫视
+https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/云南卫视.png" group-title="各地卫视",云南卫视
+https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/云南卫视.png" group-title="各地卫视",云南卫视
+https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" group-title="港澳台",凤凰资讯
+https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" group-title="港澳台",凤凰资讯
+https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰中文.png" group-title="港澳台",凤凰中文
+https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰中文.png" group-title="港澳台",凤凰中文
+https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="TVBS新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TVBS新闻.png" group-title="港澳台",TVBS新闻
+https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="TVBS新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TVBS新闻.png" group-title="港澳台",TVBS新闻
+https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中天新闻.png" group-title="港澳台",中天新闻
+https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中天新闻.png" group-title="港澳台",中天新闻
+https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="东森新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东森新闻.png" group-title="港澳台",东森新闻
+https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="东森新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东森新闻.png" group-title="港澳台",东森新闻
+https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="台视新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/台视新闻.png" group-title="港澳台",台视新闻
+https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="台视新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/台视新闻.png" group-title="港澳台",台视新闻
+https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="中视新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中视新闻.png" group-title="港澳台",中视新闻
+https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="中视新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中视新闻.png" group-title="港澳台",中视新闻
+https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="华视新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/华视新闻.png" group-title="港澳台",华视新闻
+https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="华视新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/华视新闻.png" group-title="港澳台",华视新闻
+https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="民视新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/民视新闻.png" group-title="港澳台",民视新闻
+https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="民视新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/民视新闻.png" group-title="港澳台",民视新闻
+https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="寰宇新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/寰宇新闻.png" group-title="港澳台",寰宇新闻
+https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="寰宇新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/寰宇新闻.png" group-title="港澳台",寰宇新闻
+https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="三立新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/三立新闻.png" group-title="港澳台",三立新闻
+https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="三立新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/三立新闻.png" group-title="港澳台",三立新闻
+https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="成都高清" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/成都高清.png" group-title="熊猫",成都高清
+https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="成都高清" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/成都高清.png" group-title="熊猫",成都高清
+https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="都江堰高清" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/都江堰高清.png" group-title="熊猫",都江堰高清
+https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="都江堰高清" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/都江堰高清.png" group-title="熊猫",都江堰高清
+https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="大丰麋鹿" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/大丰麋鹿.png" group-title="熊猫",大丰麋鹿
+https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="大丰麋鹿" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/大丰麋鹿.png" group-title="熊猫",大丰麋鹿
+https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="白马雪山" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/白马雪山.png" group-title="熊猫",白马雪山
+https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="白马雪山" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/白马雪山.png" group-title="熊猫",白马雪山
+https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="都江堰青青" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/都江堰青青.png" group-title="熊猫",都江堰青青
+https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="都江堰青青" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/都江堰青青.png" group-title="熊猫",都江堰青青
+https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="都江堰妃妃" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/都江堰妃妃.png" group-title="熊猫",都江堰妃妃
+https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="都江堰妃妃" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/都江堰妃妃.png" group-title="熊猫",都江堰妃妃
+https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="都江堰娅祥" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/都江堰娅祥.png" group-title="熊猫",都江堰娅祥
+https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="都江堰娅祥" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/都江堰娅祥.png" group-title="熊猫",都江堰娅祥
+https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="都江堰瑞瑞" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/都江堰瑞瑞.png" group-title="熊猫",都江堰瑞瑞
+https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="都江堰瑞瑞" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/都江堰瑞瑞.png" group-title="熊猫",都江堰瑞瑞
+https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="都江堰英英" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/都江堰英英.png" group-title="熊猫",都江堰英英
+https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="都江堰英英" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/都江堰英英.png" group-title="熊猫",都江堰英英
+https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="都江堰水秀" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/都江堰水秀.png" group-title="熊猫",都江堰水秀
+https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="都江堰水秀" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/都江堰水秀.png" group-title="熊猫",都江堰水秀
+https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="卧龙怡然" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/卧龙怡然.png" group-title="熊猫",卧龙怡然
+https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="卧龙怡然" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/卧龙怡然.png" group-title="熊猫",卧龙怡然
+https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="壹壹玖玖" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/壹壹玖玖.png" group-title="熊猫",壹壹玖玖
+https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="壹壹玖玖" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/壹壹玖玖.png" group-title="熊猫",壹壹玖玖
+https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="基地成年园1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/基地成年园1.png" group-title="熊猫",基地成年园1
+https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="基地成年园1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/基地成年园1.png" group-title="熊猫",基地成年园1
+https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="基地成年园2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/基地成年园2.png" group-title="熊猫",基地成年园2
+https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="基地成年园2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/基地成年园2.png" group-title="熊猫",基地成年园2
+https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="基地幼年园1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/基地幼年园1.png" group-title="熊猫",基地幼年园1
+https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="基地幼年园1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/基地幼年园1.png" group-title="熊猫",基地幼年园1
+https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="基地幼年园2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/基地幼年园2.png" group-title="熊猫",基地幼年园2
+https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="基地幼年园2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/基地幼年园2.png" group-title="熊猫",基地幼年园2
+https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="基地幼儿园1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/基地幼儿园1.png" group-title="熊猫",基地幼儿园1
+https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="基地幼儿园1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/基地幼儿园1.png" group-title="熊猫",基地幼儿园1
+https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="基地幼儿园2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/基地幼儿园2.png" group-title="熊猫",基地幼儿园2
+https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="基地幼儿园2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/基地幼儿园2.png" group-title="熊猫",基地幼儿园2
+https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="基地母子园" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/基地母子园.png" group-title="熊猫",基地母子园
+https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="基地母子园" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/基地母子园.png" group-title="熊猫",基地母子园
+https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="基地别墅1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/基地别墅1.png" group-title="熊猫",基地别墅1
+https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="基地别墅1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/基地别墅1.png" group-title="熊猫",基地别墅1
+https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="基地别墅2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/基地别墅2.png" group-title="熊猫",基地别墅2
+https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="基地别墅2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/基地别墅2.png" group-title="熊猫",基地别墅2
+https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC家庭影院.png" group-title="轮播",CHC家庭影院
+https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC家庭影院.png" group-title="轮播",CHC家庭影院
+https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC动作电影.png" group-title="轮播",CHC动作电影
+https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC动作电影.png" group-title="轮播",CHC动作电影
+https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="CHC高清电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC高清电影.png" group-title="轮播",CHC高清电影
+https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="CHC高清电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC高清电影.png" group-title="轮播",CHC高清电影
+https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="孤独的美食家" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/孤独的美食家.png" group-title="轮播",孤独的美食家
+https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="孤独的美食家" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/孤独的美食家.png" group-title="轮播",孤独的美食家
+http://www.goodiptv.club/douyu/953193
+#EXTINF:-1 tvg-name="孤独的美食家" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/孤独的美食家.png" group-title="轮播",孤独的美食家
+http://live.metshop.top/douyu/953193
+#EXTINF:-1 tvg-name="孤独的美食家" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/孤独的美食家.png" group-title="轮播",孤独的美食家
+http://www.goodiptv.club/douyu/260322
+#EXTINF:-1 tvg-name="孤独的美食家" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/孤独的美食家.png" group-title="轮播",孤独的美食家
+https://live.ottiptv.cc/douyu/260322
+#EXTINF:-1 tvg-name="孤独的美食家" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/孤独的美食家.png" group-title="轮播",孤独的美食家
+https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="孤独的美食家" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/孤独的美食家.png" group-title="轮播",孤独的美食家
+http://live.metshop.top/douyu/260322
+#EXTINF:-1 tvg-name="孤独的美食家" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/孤独的美食家.png" group-title="轮播",孤独的美食家
+https://live.ottiptv.cc/douyu/953193
+#EXTINF:-1 tvg-name="地下交通站" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/地下交通站.png" group-title="轮播",地下交通站
+https://live.ottiptv.cc/huya/11342433
+#EXTINF:-1 tvg-name="地下交通站" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/地下交通站.png" group-title="轮播",地下交通站
+https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="地下交通站" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/地下交通站.png" group-title="轮播",地下交通站
+http://www.goodiptv.club/huya/11342433
+#EXTINF:-1 tvg-name="地下交通站" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/地下交通站.png" group-title="轮播",地下交通站
+http://live.metshop.top/douyu/12562123
+#EXTINF:-1 tvg-name="地下交通站" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/地下交通站.png" group-title="轮播",地下交通站
+http://www.goodiptv.club/douyu/9470198
+#EXTINF:-1 tvg-name="地下交通站" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/地下交通站.png" group-title="轮播",地下交通站
+http://live.metshop.top/douyu/9470198
+#EXTINF:-1 tvg-name="地下交通站" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/地下交通站.png" group-title="轮播",地下交通站
+https://live.ottiptv.cc/douyu/9470198
+#EXTINF:-1 tvg-name="地下交通站" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/地下交通站.png" group-title="轮播",地下交通站
+https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="地下交通站" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/地下交通站.png" group-title="轮播",地下交通站
+http://huya.chinamm.cn/?id=11342433
+#EXTINF:-1 tvg-name="地下交通站" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/地下交通站.png" group-title="轮播",地下交通站
+https://025365.xyz:8082/huya.php?id=11342433
+#EXTINF:-1 tvg-name="龙门镖局" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/龙门镖局.png" group-title="轮播",龙门镖局
+https://live.ottiptv.cc/huya/11352874
+#EXTINF:-1 tvg-name="龙门镖局" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/龙门镖局.png" group-title="轮播",龙门镖局
+https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="龙门镖局" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/龙门镖局.png" group-title="轮播",龙门镖局
+http://live.metshop.top/huya/11352874
+#EXTINF:-1 tvg-name="龙门镖局" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/龙门镖局.png" group-title="轮播",龙门镖局
+http://www.goodiptv.club/huya/11352874
+#EXTINF:-1 tvg-name="龙门镖局" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/龙门镖局.png" group-title="轮播",龙门镖局
+https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="龙门镖局" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/龙门镖局.png" group-title="轮播",龙门镖局
+http://huya.chinamm.cn/?id=11352874
+#EXTINF:-1 tvg-name="龙门镖局" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/龙门镖局.png" group-title="轮播",龙门镖局
+https://025365.xyz:8082/huya.php?id=11352874
+#EXTINF:-1 tvg-name="东北一家人" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东北一家人.png" group-title="轮播",东北一家人
+http://live.metshop.top/huya/21059634
+#EXTINF:-1 tvg-name="东北一家人" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东北一家人.png" group-title="轮播",东北一家人
+https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="东北一家人" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东北一家人.png" group-title="轮播",东北一家人
+https://live.ottiptv.cc/huya/21059634
+#EXTINF:-1 tvg-name="东北一家人" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东北一家人.png" group-title="轮播",东北一家人
+https://025365.xyz:8082/huya.php?id=21059634
+#EXTINF:-1 tvg-name="东北一家人" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东北一家人.png" group-title="轮播",东北一家人
+http://www.goodiptv.club/douyu/7642724
+#EXTINF:-1 tvg-name="东北一家人" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东北一家人.png" group-title="轮播",东北一家人
+http://huya.chinamm.cn/?id=21059634
+#EXTINF:-1 tvg-name="东北一家人" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东北一家人.png" group-title="轮播",东北一家人
+http://live.metshop.top/douyu/7642724
+#EXTINF:-1 tvg-name="东北一家人" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东北一家人.png" group-title="轮播",东北一家人
+https://live.ottiptv.cc/douyu/7642724
+#EXTINF:-1 tvg-name="东北一家人" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东北一家人.png" group-title="轮播",东北一家人
+https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="东北一家人" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东北一家人.png" group-title="轮播",东北一家人
+http://www.goodiptv.club/huya/21059634
+#EXTINF:-1 tvg-name="爱情公寓" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/爱情公寓.png" group-title="轮播",爱情公寓
+https://live.ottiptv.cc/douyu/4105989
+#EXTINF:-1 tvg-name="爱情公寓" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/爱情公寓.png" group-title="轮播",爱情公寓
+https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="爱情公寓" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/爱情公寓.png" group-title="轮播",爱情公寓
+https://live.ottiptv.cc/huya/11336726
+#EXTINF:-1 tvg-name="爱情公寓" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/爱情公寓.png" group-title="轮播",爱情公寓
+http://www.goodiptv.club/huya/11336726
+#EXTINF:-1 tvg-name="爱情公寓" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/爱情公寓.png" group-title="轮播",爱情公寓
+https://live.ottiptv.cc/douyu/6863367
+#EXTINF:-1 tvg-name="爱情公寓" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/爱情公寓.png" group-title="轮播",爱情公寓
+http://www.goodiptv.club/douyu/4105989
+#EXTINF:-1 tvg-name="爱情公寓" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/爱情公寓.png" group-title="轮播",爱情公寓
+http://live.metshop.top/douyu/6863367
+#EXTINF:-1 tvg-name="爱情公寓" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/爱情公寓.png" group-title="轮播",爱情公寓
+http://live.metshop.top/douyu/4105989
+#EXTINF:-1 tvg-name="爱情公寓" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/爱情公寓.png" group-title="轮播",爱情公寓
+https://025365.xyz:8082/huya.php?id=11336726
+#EXTINF:-1 tvg-name="爱情公寓" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/爱情公寓.png" group-title="轮播",爱情公寓
+http://www.goodiptv.club/douyu/6863367
+#EXTINF:-1 tvg-name="武林外传" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/武林外传.png" group-title="轮播",武林外传
+https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="武林外传" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/武林外传.png" group-title="轮播",武林外传
+https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="我爱我家" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/我爱我家.png" group-title="轮播",我爱我家
+https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="我爱我家" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/我爱我家.png" group-title="轮播",我爱我家
+https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="编辑部的故事" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/编辑部的故事.png" group-title="轮播",编辑部的故事
+https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="编辑部的故事" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/编辑部的故事.png" group-title="轮播",编辑部的故事
+https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="周星驰" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/周星驰.png" group-title="轮播",周星驰
+http://www.goodiptv.club/huya/11342412
+#EXTINF:-1 tvg-name="周星驰" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/周星驰.png" group-title="轮播",周星驰
+https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="周星驰" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/周星驰.png" group-title="轮播",周星驰
+http://huya.chinamm.cn/?id=11342412
+#EXTINF:-1 tvg-name="周星驰" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/周星驰.png" group-title="轮播",周星驰
+http://live.metshop.top/huya/11342412
+#EXTINF:-1 tvg-name="周星驰" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/周星驰.png" group-title="轮播",周星驰
+https://live.ottiptv.cc/huya/11342412
+#EXTINF:-1 tvg-name="周星驰" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/周星驰.png" group-title="轮播",周星驰
+https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="西游记" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/西游记.png" group-title="轮播",西游记
+https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="西游记" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/西游记.png" group-title="轮播",西游记
+https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="新白娘子传奇" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/新白娘子传奇.png" group-title="轮播",新白娘子传奇
+https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="新白娘子传奇" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/新白娘子传奇.png" group-title="轮播",新白娘子传奇
+https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="埋堆堆" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/埋堆堆.png" group-title="轮播",埋堆堆
+https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="埋堆堆" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/埋堆堆.png" group-title="轮播",埋堆堆
+https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="猫和老鼠" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/猫和老鼠.png" group-title="轮播",猫和老鼠
+https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="猫和老鼠" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/猫和老鼠.png" group-title="轮播",猫和老鼠
+https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="柯南" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/柯南.png" group-title="轮播",柯南
+https://live.ottiptv.cc/huya/30080236
+#EXTINF:-1 tvg-name="柯南" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/柯南.png" group-title="轮播",柯南
+http://live.metshop.top/huya/30080236
+#EXTINF:-1 tvg-name="柯南" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/柯南.png" group-title="轮播",柯南
+https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="柯南" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/柯南.png" group-title="轮播",柯南
+http://huya.chinamm.cn/?id=30080148
+#EXTINF:-1 tvg-name="柯南" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/柯南.png" group-title="轮播",柯南
+http://live.metshop.top/huya/30080148
+#EXTINF:-1 tvg-name="柯南" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/柯南.png" group-title="轮播",柯南
+https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="柯南" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/柯南.png" group-title="轮播",柯南
+http://www.goodiptv.club/huya/30080148
+#EXTINF:-1 tvg-name="柯南" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/柯南.png" group-title="轮播",柯南
+http://www.goodiptv.club/huya/30080236
+#EXTINF:-1 tvg-name="柯南" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/柯南.png" group-title="轮播",柯南
+http://huya.chinamm.cn/?id=30080236
+#EXTINF:-1 tvg-name="蜡笔小新" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/蜡笔小新.png" group-title="轮播",蜡笔小新
+https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="蜡笔小新" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/蜡笔小新.png" group-title="轮播",蜡笔小新
+http://huya.chinamm.cn/?id=30362138
+#EXTINF:-1 tvg-name="蜡笔小新" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/蜡笔小新.png" group-title="轮播",蜡笔小新
+https://live.ottiptv.cc/huya/30527430
+#EXTINF:-1 tvg-name="蜡笔小新" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/蜡笔小新.png" group-title="轮播",蜡笔小新
+http://www.goodiptv.club/huya/30527430
+#EXTINF:-1 tvg-name="蜡笔小新" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/蜡笔小新.png" group-title="轮播",蜡笔小新
+https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/iptv.m3u
+#EXTINF:-1 tvg-name="蜡笔小新" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/蜡笔小新.png" group-title="轮播",蜡笔小新
+http://www.goodiptv.club/huya/30362138
+#EXTINF:-1 tvg-name="蜡笔小新" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/蜡笔小新.png" group-title="轮播",蜡笔小新
+http://huya.chinamm.cn/?id=30527430
+#EXTINF:-1 tvg-name="蜡笔小新" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/蜡笔小新.png" group-title="轮播",蜡笔小新
+http://live.metshop.top/huya/30527430
+#EXTINF:-1 tvg-name="蜡笔小新" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/蜡笔小新.png" group-title="轮播",蜡笔小新
+http://live.metshop.top/huya/30362138
